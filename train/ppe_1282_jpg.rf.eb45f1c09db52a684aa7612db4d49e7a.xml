@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>ppe_1282_jpg.rf.eb45f1c09db52a684aa7612db4d49e7a.jpg</filename>
+	<path>ppe_1282_jpg.rf.eb45f1c09db52a684aa7612db4d49e7a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>212</xmax>
+			<ymin>56</ymin>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>48</xmin>
+			<xmax>215</xmax>
+			<ymin>5</ymin>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
